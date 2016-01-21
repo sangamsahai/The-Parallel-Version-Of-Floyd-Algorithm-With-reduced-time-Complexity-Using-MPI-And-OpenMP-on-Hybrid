@@ -1,0 +1,2 @@
+# The-Parallel-Version-Of-Floyd-Algorithm-With-reduced-time-Complexity-Using-MPI-And-OpenMP-on-Hybrid
+This Algorithm reduces the time complexity of Floyd's Algorithm by a huge factor. This is a hybrid approach in which we use MPI for inter process communication and OpenMP for Multithreading. MPI is used for communication between the nodes(distributed memory architecture).  And OpenMP facilitates the multithreading on different cores of the same node, which have shared memory architecture.
